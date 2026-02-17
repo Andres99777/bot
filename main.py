@@ -12,7 +12,7 @@ from telegram.ext import (
 # CONFIGURACIÓN
 # =======================
 
-TOKEN = "8278289735:AAFWAJRrwNXTcZF-5l3Q4sqkMDhpw-MO2rg"
+TOKEN = "8278289735:AAEuO-Vu9vPhj3HCoxvQ61sTzz5iP0z9KIw"
 ADMIN_URL = "https://t.me/KykePicks"
 ARCHIVO = "users.json"
 
@@ -159,6 +159,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
